@@ -1,0 +1,16 @@
+
+# Ignorar entorno virtual
+venv/
+.env/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar librerías instaladas
+*.egg-info/
+*.dist-info/
+
+# Otros archivos generados por editores o sistemas
+.DS_Store
+*.log

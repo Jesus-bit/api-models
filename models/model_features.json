@@ -1,0 +1,19 @@
+{
+    "temperature_model_features": [
+        "TEMPERATURE_10M_CELSIUS"
+    ],
+    "sunny_model_features": [
+        "SEASON",
+        "SOLAR_RADIATION_KW_M2",
+        "DAY_OF_WEEK",
+        "RELATIVE_HUMIDITY_2M_PCT",
+        "YEAR"
+    ],
+    "rain_model_features": [
+        "RELATIVE_HUMIDITY_2M_PCT",
+        "TEMPERATURE_2M_MIN_CELSIUS",
+        "SOLAR_RADIATION_KW_M2",
+        "SURFACE_PRESSURE_KPA",
+        "WIND_SPEED_10M_MS"
+    ]
+}
